@@ -1,0 +1,16 @@
+{
+  "name": "raycast-script-commands",
+  "version": "1.0.0",
+  "description": "Node modules for my Raycast Script Commands",
+  "repository": {
+    "type": "git",
+    "url": "raycast-script-commands"
+  },
+  "license": "ISC",
+  "author": "Alex Miller",
+  "type": "commonjs",
+  "main": "paste-previously-copied-item.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
