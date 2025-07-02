@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon icons/finder.png
+# @raycast.icon ../../icons/finder.png
 
 # Documentation:
 # @raycast.description Opens a new finder window
