@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon icons/gmail.svg
+# @raycast.icon ../../icons/gmail.svg
 
 # Documentation:
 # @raycast.description Opens my GMail Accounts

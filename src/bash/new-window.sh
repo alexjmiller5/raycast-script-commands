@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon icons/google-chrome.svg
+# @raycast.icon ../../icons/google-chrome.svg
 
 # Documentation:
 # @raycast.description Opens a new tab in Google Chrome
